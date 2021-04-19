@@ -1,0 +1,19 @@
+{
+    "name": "webrtc",
+    "version": "1.0.0",
+    "description": "First webrtc app",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server"
+    },
+    "keywords": [
+        "webrtc"
+    ],
+    "author": "Km Habib",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^2.4.1",
+        "wscat": "^4.0.1"
+    }
+}
